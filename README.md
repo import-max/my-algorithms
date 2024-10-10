@@ -32,4 +32,9 @@
 | 2  |[글자 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181915)| Python    | 89% | Easy       | :white_check_mark: |
 | 3  |[수 조작하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181926)| Python    | 89% | Easy       | :white_check_mark: |
 | 4  |[마지막 두 원소](https://school.programmers.co.kr/learn/courses/30/lessons/181927)| Python    | 89% | Easy       | :white_check_mark: |
-| 5  |
+| 5  |[문자열 겹쳐쓰기](https://school.programmers.co.kr/learn/courses/30/lessons/181943)| Python    | 78% | Easy       | :white_check_mark: |
+| 6  |[문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952)| Python    | 70% | Easy       | :white_check_mark: |
+| 7  |[원소들의 곱과 합](https://school.programmers.co.kr/learn/courses/30/lessons/181929)| Python    | 89% | Easy       | :white_check_mark: |
+| 8  |[문자열 반복해서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181950)| Python    | 85% | Easy       | :white_check_mark: |
+| 9  |[문자 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181902)| Python    | 83% | Easy       | :white_check_mark: |
+
