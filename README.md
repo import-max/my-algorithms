@@ -26,7 +26,10 @@
 -->
 
 
-| No | Title | Solution | Difficulty | Completed          |
-| -- | ----- | -------- | ---------- | ------------------ |
-| 1  |[문자열의 뒤의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181910)| Python    | Easy       | :white_check_mark: |
-|    |       |          |            |                    |
+| No | Title | Solution | Acceptance | Difficulty | Completed          |
+| -- | ----- | -------- | ---------- | ---------- | ------------------ |
+| 1  |[문자열의 뒤의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181910)| Python    | 89% | Easy       | :white_check_mark: |
+| 2  |[글자 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181915)| Python    | 89% | Easy       | :white_check_mark: |
+| 3  |[수 조작하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181926)| Python    | 89% | Easy       | :white_check_mark: |
+| 4  |[마지막 두 원소](https://school.programmers.co.kr/learn/courses/30/lessons/181927)| Python    | 89% | Easy       | :white_check_mark: |
+| 5  |
