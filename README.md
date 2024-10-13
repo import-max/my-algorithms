@@ -38,4 +38,6 @@
 | 8  |[문자열 반복해서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181950)| Python    | 85% | Easy       | :white_check_mark: |
 | 9  |[문자 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181902)| Python    | 83% | Easy       | :white_check_mark: |
 | 10 |[문자열을 정수로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181848)| Python    | 89% | Easy       | :white_check_mark: |
+| 11 |[대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949)| Python    | 76% | Easy       | :white_check_mark: |
+
 
