@@ -41,5 +41,7 @@
 | 11 |[대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949)| Python    | 76% | Easy (Lv.0)       | :white_check_mark: |
 | 12 |[a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951)| Python    | 79% | Easy (Lv.0)       | :white_check_mark: |
 | 13 |[나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820)| Python    | 91% | Easy (Lv.0)      | :white_check_mark: |
+| 14 |[문자열 정수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181849)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 15 |[리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897)| Python    | 84% | Easy (Lv.0)      | :white_check_mark: |
 
 
