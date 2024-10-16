@@ -43,5 +43,6 @@
 | 13 |[나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820)| Python    | 91% | Easy (Lv.0)      | :white_check_mark: |
 | 14 |[문자열 정수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181849)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 | 15 |[리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897)| Python    | 84% | Easy (Lv.0)      | :white_check_mark: |
+| 15 |[문자열로 변환](https://school.programmers.co.kr/learn/courses/30/lessons/181845)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 
 
