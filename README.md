@@ -44,5 +44,6 @@
 | 14 |[문자열 정수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181849)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 | 15 |[리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897)| Python    | 84% | Easy (Lv.0)      | :white_check_mark: |
 | 15 |[문자열로 변환](https://school.programmers.co.kr/learn/courses/30/lessons/181845)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 16 |[홀수 vs 짝수](https://school.programmers.co.kr/learn/courses/30/lessons/181887)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 
 
