@@ -47,7 +47,8 @@
 | 16 |[홀수 vs 짝수](https://school.programmers.co.kr/learn/courses/30/lessons/181887)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 | 17 |[n의 배수](https://school.programmers.co.kr/learn/courses/30/lessons/181937)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
 | 18 |[덧셈식 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181947)| Python    | 88% | Easy (Lv.0)      | :white_check_mark: |
-| 19 |[문자열 섞기](https://school.programmers.co.kr/learn/courses/30/lessons/181942)| Python    | 87% | Easy (Lv.0)      | :white_check_mark: |2
+| 19 |[문자열 섞기](https://school.programmers.co.kr/learn/courses/30/lessons/181942)| Python    | 87% | Easy (Lv.0)      | :white_check_mark: |
+| 20 |[문자열 붙여서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181946)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 
 
 
