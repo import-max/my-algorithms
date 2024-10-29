@@ -50,6 +50,8 @@
 | 19 |[문자열 섞기](https://school.programmers.co.kr/learn/courses/30/lessons/181942)| Python    | 87% | Easy (Lv.0)      | :white_check_mark: |
 | 20 |[문자열 붙여서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181946)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 | 21 |[두 수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803)| Python    | 91% | Easy (Lv.0)      | :white_check_mark: |
+| 23 |[숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807)| Python    | 91% | Easy (Lv.0)      | :white_check_mark: |
+| 24 |[두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804)| Python    | 91% | Easy (Lv.0)      | :white_check_mark: |
 
 
 
