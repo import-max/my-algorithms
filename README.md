@@ -1,5 +1,7 @@
 # Algorithms
+To record process what I solved
 
+# Programmers
 
 
 <!--
