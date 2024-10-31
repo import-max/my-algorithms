@@ -1,7 +1,7 @@
 # Algorithms
 To record process what I solved
 
-# Programmers
+
 
 
 <!--
@@ -16,18 +16,20 @@ To record process what I solved
 |Completion Rate|47.8%|37.1%|26.3%|37.4%|
 
 
-
-| No.    |  Title  |  Solution  |  Acceptance |  Difficulty |  Frequency |
-|:--------:|:--------------------------------------------------------------|:--------:|:--------:|:--------:|:--------:|
-|0001|Two Sum|[Go](https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0001.Two-Sum)|49.1%|Easy||
-
 | Task 1       | :negative_squared_cross_mark:      |
 | Task 2       | :x:|
 | Task 3       | :white_check_mark:       |
 | Task 3       | :heavy_check_mark:       |
 -->
 
+# LeetCode
+| No.    |  Title  |  Solution  |  Acceptance |  Difficulty |
+|:--------:|:--------------------------------------------------------------|:--------:|:--------:|:--------:|
+|0001|Two Sum|[Python](https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0001.Two-Sum)|49.1%|Easy|
 
+
+
+# Programmers
 | No | Title | Solution | Acceptance | Difficulty | Completed          |
 | -- | ----- | -------- | ---------- | ---------- | ------------------ |
 | 1  |[문자열의 뒤의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181910)| Python    | 89% | Easy (Lv.0)       | :white_check_mark: |
