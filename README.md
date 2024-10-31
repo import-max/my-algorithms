@@ -56,6 +56,7 @@ To record process what I solved
 | 23 |[두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804)| Python    | 91% | Easy (Lv.0)      | :white_check_mark: |
 | 24 |[부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181842)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 | 25 |[날짜 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181838)| Python    | 86% | Easy (Lv.0)      | :white_check_mark: |
+| 26 |[두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181846)| Python    | 81% | Easy (Lv.0)      | :white_check_mark: |
 
 
 
