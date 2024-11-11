@@ -60,6 +60,8 @@ To record process what I solved
 | 25 |[날짜 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181838)| Python    | 86% | Easy (Lv.0)      | :white_check_mark: |
 | 26 |[두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181846)| Python    | 81% | Easy (Lv.0)      | :white_check_mark: |
 | 27 |[배열 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181856)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 28 |[문자열 곱하기](https://school.programmers.co.kr/learn/courses/30/lessons/181940)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
+
 | 28 |[뒤에서 5등 위로](https://school.programmers.co.kr/learn/courses/30/lessons/181852)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 | 29 |[뒤에서 5등까지](https://school.programmers.co.kr/learn/courses/30/lessons/181853)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 
