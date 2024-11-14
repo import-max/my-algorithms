@@ -65,6 +65,9 @@ To record process what I solved
 | 30 |[문자열 곱하기](https://school.programmers.co.kr/learn/courses/30/lessons/181940)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
 | 31 |[배열의 길이에 따라 다른 연산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181854)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 | 32 |[rny_string](https://school.programmers.co.kr/learn/courses/30/lessons/181863)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 33 |[몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805)| Python    | 92% | Easy (Lv.0)      | :white_check_mark: |
+| 34 |[짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
+| 35 |[치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)| Python    | 75% | Easy (Lv.0)      | :white_check_mark: |
 
 
 
