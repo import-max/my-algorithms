@@ -47,28 +47,28 @@ To record process what I solved
 | 13 |[나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820)| Python    | 91% | Easy (Lv.0)      | :white_check_mark: |
 | 14 |[문자열 정수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181849)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 | 15 |[리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897)| Python    | 84% | Easy (Lv.0)      | :white_check_mark: |
-| 15 |[문자열로 변환](https://school.programmers.co.kr/learn/courses/30/lessons/181845)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
-| 16 |[홀수 vs 짝수](https://school.programmers.co.kr/learn/courses/30/lessons/181887)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
-| 17 |[n의 배수](https://school.programmers.co.kr/learn/courses/30/lessons/181937)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
-| 18 |[덧셈식 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181947)| Python    | 88% | Easy (Lv.0)      | :white_check_mark: |
-| 19 |[문자열 섞기](https://school.programmers.co.kr/learn/courses/30/lessons/181942)| Python    | 87% | Easy (Lv.0)      | :white_check_mark: |
-| 20 |[문자열 붙여서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181946)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
-| 21 |[두 수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803)| Python    | 91% | Easy (Lv.0)      | :white_check_mark: |
-| 22 |[숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807)| Python    | 91% | Easy (Lv.0)      | :white_check_mark: |
-| 23 |[두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804)| Python    | 91% | Easy (Lv.0)      | :white_check_mark: |
-| 24 |[부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181842)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
-| 25 |[날짜 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181838)| Python    | 86% | Easy (Lv.0)      | :white_check_mark: |
-| 26 |[두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181846)| Python    | 81% | Easy (Lv.0)      | :white_check_mark: |
-| 27 |[배열 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181856)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
-| 28 |[뒤에서 5등 위로](https://school.programmers.co.kr/learn/courses/30/lessons/181852)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
-| 29 |[뒤에서 5등까지](https://school.programmers.co.kr/learn/courses/30/lessons/181853)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
-| 30 |[문자열 곱하기](https://school.programmers.co.kr/learn/courses/30/lessons/181940)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
-| 31 |[배열의 길이에 따라 다른 연산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181854)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
-| 32 |[rny_string](https://school.programmers.co.kr/learn/courses/30/lessons/181863)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
-| 33 |[몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805)| Python    | 92% | Easy (Lv.0)      | :white_check_mark: |
-| 34 |[짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
-| 35 |[치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)| Python    | 75% | Easy (Lv.0)      | :white_check_mark: |
-| 36 |[옹알이(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)| Python    | 36% | Easy (Lv.0)      | :white_check_mark: |
+| 16 |[문자열로 변환](https://school.programmers.co.kr/learn/courses/30/lessons/181845)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 17 |[홀수 vs 짝수](https://school.programmers.co.kr/learn/courses/30/lessons/181887)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 18 |[n의 배수](https://school.programmers.co.kr/learn/courses/30/lessons/181937)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
+| 19 |[덧셈식 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181947)| Python    | 88% | Easy (Lv.0)      | :white_check_mark: |
+| 20 |[문자열 섞기](https://school.programmers.co.kr/learn/courses/30/lessons/181942)| Python    | 87% | Easy (Lv.0)      | :white_check_mark: |
+| 21 |[문자열 붙여서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181946)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 22 |[두 수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803)| Python    | 91% | Easy (Lv.0)      | :white_check_mark: |
+| 23 |[숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807)| Python    | 91% | Easy (Lv.0)      | :white_check_mark: |
+| 24 |[두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804)| Python    | 91% | Easy (Lv.0)      | :white_check_mark: |
+| 25 |[부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181842)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 26 |[날짜 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181838)| Python    | 86% | Easy (Lv.0)      | :white_check_mark: |
+| 27 |[두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181846)| Python    | 81% | Easy (Lv.0)      | :white_check_mark: |
+| 28 |[배열 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181856)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 29 |[뒤에서 5등 위로](https://school.programmers.co.kr/learn/courses/30/lessons/181852)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 30 |[뒤에서 5등까지](https://school.programmers.co.kr/learn/courses/30/lessons/181853)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 31 |[문자열 곱하기](https://school.programmers.co.kr/learn/courses/30/lessons/181940)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
+| 32 |[배열의 길이에 따라 다른 연산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181854)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 33 |[rny_string](https://school.programmers.co.kr/learn/courses/30/lessons/181863)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 34 |[몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805)| Python    | 92% | Easy (Lv.0)      | :white_check_mark: |
+| 35 |[짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
+| 36 |[치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)| Python    | 75% | Easy (Lv.0)      | :white_check_mark: |
+| 37 |[옹알이(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)| Python    | 36% | Easy (Lv.0)      | :white_check_mark: |
 
 
 
