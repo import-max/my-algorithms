@@ -69,6 +69,7 @@ To record process what I solved
 | 35 |[짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
 | 36 |[치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)| Python    | 75% | Easy (Lv.0)      | :white_check_mark: |
 | 37 |[옹알이(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)| Python    | 36% | Easy (Lv.0)      | :white_check_mark: |
+| 38 |[분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)| Python    | 62% | Easy (Lv.0)      | :white_check_mark: |
 
 
 
