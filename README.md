@@ -22,6 +22,8 @@ To record process what I solved
 | Task 3       | :heavy_check_mark:       |
 -->
 
+
+
 # LeetCode
 | No.    |  Title  |  Solution  |  Acceptance |  Difficulty |
 |:--------:|:--------------------------------------------------------------|:--------:|:--------:|:--------:|
@@ -71,7 +73,7 @@ To record process what I solved
 | 37 |[옹알이(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)| Python    | 36% | Easy (Lv.0)      | :white_check_mark: |
 | 38 |[분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)| Python    | 62% | Easy (Lv.0)      | :white_check_mark: |
 | 39 |[문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
-| 40 |[문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120810)| Python    | 91% | Easy (Lv.0)      | :white_check_mark: |
+| 40 |[나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810)| Python    | 91% | Easy (Lv.0)      | :white_check_mark: |
 
 
 
