@@ -5,5 +5,3 @@ def solution(my_string):
         result += my_string[idx]
         idx -=1
     return result
-
-solution("abcde")
