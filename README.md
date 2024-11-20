@@ -79,6 +79,9 @@ To record process what I solved
 | 43 |[두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120802)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
 | 44 |[두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
 | 45 |[배열 두 배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 46 |[각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
+| 47 |[배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
+| 48 |[배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120830)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
 
 
 
