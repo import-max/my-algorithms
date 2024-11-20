@@ -82,6 +82,12 @@ To record process what I solved
 | 46 |[각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
 | 47 |[배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
 | 48 |[배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120830)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
+| 49 |[문자열 돌리기](https://school.programmers.co.kr/learn/courses/30/lessons/181945)| Python    | 88% | Easy (Lv.0)      | :white_check_mark: |
+| 50 |[홀짝 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/181944)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 51 |[문자 리스트를 문자열로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181941)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 52 |[더 크게 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/181939)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 53 |[두 수의 연산값 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181938)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 54 |[개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 
 
 
