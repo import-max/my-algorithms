@@ -88,6 +88,7 @@ To record process what I solved
 | 52 |[더 크게 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/181939)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 | 53 |[두 수의 연산값 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181938)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 | 54 |[개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 55 |[중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 
 
 
