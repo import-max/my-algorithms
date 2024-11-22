@@ -81,7 +81,7 @@ To record process what I solved
 | 45 |[배열 두 배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 | 46 |[각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
 | 47 |[배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
-| 48 |[배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120830)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
+| 48 |[양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
 | 49 |[문자열 돌리기](https://school.programmers.co.kr/learn/courses/30/lessons/181945)| Python    | 88% | Easy (Lv.0)      | :white_check_mark: |
 | 50 |[홀짝 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/181944)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 | 51 |[문자 리스트를 문자열로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181941)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
@@ -92,6 +92,11 @@ To record process what I solved
 | 56 |[세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120810)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
 | 57 |[짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
 | 58 |[피자 나눠 먹기(3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
+| 59 |[점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
+| 60 |[머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 61 |[피자 나눠 먹기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 62 |[옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 63 |[아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 
 
 
