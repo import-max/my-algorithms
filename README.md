@@ -89,6 +89,10 @@ To record process what I solved
 | 53 |[두 수의 연산값 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181938)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 | 54 |[개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 | 55 |[중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 56 |[세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120810)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
+| 57 |[짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
+| 58 |[피자 나눠 먹기(3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
+
 
 
 
