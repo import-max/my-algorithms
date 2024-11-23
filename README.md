@@ -27,7 +27,7 @@ To record process what I solved
 # LeetCode
 | No.    |  Title  |  Solution  |  Acceptance |  Difficulty |
 |:--------:|:--------------------------------------------------------------|:--------:|:--------:|:--------:|
-# |0001|Two Sum|[Python](https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0001.Two-Sum)|49.1%|Easy|
+|0001|Two Sum|[Python](https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0001.Two-Sum)|49.1%|Easy|
 
 
 
