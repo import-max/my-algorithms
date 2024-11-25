@@ -97,6 +97,14 @@ To record process what I solved
 | 61 |[피자 나눠 먹기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 | 62 |[옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 | 63 |[아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 64 |[가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 65 |[숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 66 |[피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 67 |[대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 68 |[가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 69 |[n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 70 |[특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 71 |[모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
 
 
 
