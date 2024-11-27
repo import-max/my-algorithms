@@ -107,6 +107,7 @@ To record process what I solved
 | 71 |[모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
 | 72 |[편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
 | 73 |[팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)| Python    | 85% | Easy (Lv.0)      | :white_check_mark: |
+| 74 |[문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
 
 
 
