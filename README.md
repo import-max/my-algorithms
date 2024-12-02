@@ -109,6 +109,8 @@ To record process what I solved
 | 73 |[팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)| Python    | 85% | Easy (Lv.0)      | :white_check_mark: |
 | 74 |[문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
 | 75 |[공배수](https://school.programmers.co.kr/learn/courses/30/lessons/181936)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
+| 76 |[배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
+| 77 |[삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
 
 
 
