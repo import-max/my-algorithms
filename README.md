@@ -116,6 +116,7 @@ To record process what I solved
 | 80 |[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 | 81 |[로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)| Python    | 77% | Easy (Lv.0)      | :white_check_mark: |
 | 82 |[k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887)| Python    | 86% | Easy (Lv.0)      | :white_check_mark: |
+| 83 |[홀짝에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
 
 
 
