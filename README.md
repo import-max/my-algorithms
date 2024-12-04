@@ -30,6 +30,19 @@ To record process what I solved
 |0001|Two Sum|[Python](https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0001.Two-Sum)|49.1%|Easy|
 
 
+# SQL
+| No | Title | Type | Difficulty | Completed          |
+| -- | ----- | -------- | ---------- | ------------------ |
+| 1  |[평균 일일 대여 요금 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151136)| MySQL    | Level 1 | :white_check_mark: |
+| 2  |[재구매가 일어난 상품과 회원 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131536)| MySQL    | Level 2 | :white_check_mark: |
+| 3  |[역순 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59035)| MySQL    | Level 1 | :white_check_mark: |
+| 4  |[아픈 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59036)| MySQL    | Level 1 | :white_check_mark: |
+| 5  |[어린 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59037)| MySQL    | Level 1 | :white_check_mark: |
+| 6  |[동물의 아이디와 이름](https://school.programmers.co.kr/learn/courses/30/lessons/59403)| MySQL    | Level 1 | :white_check_mark: |
+| 7  |[여러 기준으로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59404)| MySQL    | Level 1 | :white_check_mark: |
+| 8  |[상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405)| MySQL    | Level 1 | :white_check_mark: |
+| 9  |[모든 레코드 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/59034)| MySQL    | Level 1 | :white_check_mark: |
+| 10 |[Python 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276013)| MySQL    | Level 1 | :white_check_mark: |
 
 # Programmers
 | No | Title | Solution | Acceptance | Difficulty | Completed          |
@@ -119,6 +132,7 @@ To record process what I solved
 | 83 |[홀짝에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
 | 84 |[특정한 문자를 대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181873)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 | 85 |[이어 붙인 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+
 
 
 
