@@ -43,6 +43,14 @@ To record process what I solved
 | 8  |[상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405)| MySQL    | Level 1 | :white_check_mark: |
 | 9  |[모든 레코드 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/59034)| MySQL    | Level 1 | :white_check_mark: |
 | 10 |[Python 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276013)| MySQL    | Level 1 | :white_check_mark: |
+| 11 |[흉부외과 또는 일반외과 의사 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132203)| MySQL    | Level 1 | :white_check_mark: |
+| 12 |[3월에 태어난 여성 회원 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131120)| MySQL    | Level 1 | :white_check_mark: |
+| 13 |[인기있는 아이스크림](https://school.programmers.co.kr/learn/courses/30/lessons/133024)| MySQL    | Level 1 | :white_check_mark: |
+| 14 |[가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697)| MySQL    | Level 1 | :white_check_mark: |
+| 15 |[최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415)| MySQL    | Level 1 | :white_check_mark: |
+| 16 |[잡은 물고기 중 가장 큰 물고기의 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298515)| MySQL    | Level 1 | :white_check_mark: |
+| 17 |[경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114)| MySQL    | Level 1 | :white_check_mark: |
+| 18 |[이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59039)| MySQL    | Level 1 | :white_check_mark: |
 
 # Programmers
 | No | Title | Solution | Acceptance | Difficulty | Completed          |
