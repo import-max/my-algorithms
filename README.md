@@ -51,6 +51,10 @@ To record process what I solved
 | 16 |[잡은 물고기 중 가장 큰 물고기의 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298515)| MySQL    | Level 1 | :white_check_mark: |
 | 17 |[경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114)| MySQL    | Level 1 | :white_check_mark: |
 | 18 |[이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59039)| MySQL    | Level 1 | :white_check_mark: |
+| 19 |[이름이 있는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59407)| MySQL    | Level 1 | :white_check_mark: |
+| 20 |[나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528)| MySQL    | Level 1 | :white_check_mark: |
+| 21 |[잡은 물고기의 평균 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293259)| MySQL    | Level 1 | :white_check_mark: |\
+| 22 |[자동차 대여 기록 별 대여 금액 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151141)| MySQL    | Level 1 | :white_check_mark: |
 
 # Programmers
 | No | Title | Solution | Acceptance | Difficulty | Completed          |
