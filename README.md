@@ -55,6 +55,9 @@ To record process what I solved
 | 20 |[나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528)| MySQL    | Level 1 | :white_check_mark: |
 | 21 |[잡은 물고기의 평균 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293259)| MySQL    | Level 1 | :white_check_mark: |\
 | 22 |[자동차 대여 기록 별 대여 금액 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151141)| MySQL    | Level 1 | :white_check_mark: |
+| 23 |[강원도에 위치한 생산공장 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131112)| MySQL    | Level 1 | :white_check_mark: |
+| 24 |[12세 이하인 여자 환자 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132201)| MySQL    | Level 1 | :white_check_mark: |
+
 
 # Programmers
 | No | Title | Solution | Acceptance | Difficulty | Completed          |
