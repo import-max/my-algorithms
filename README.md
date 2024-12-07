@@ -57,6 +57,12 @@ To record process what I solved
 | 22 |[자동차 대여 기록 별 대여 금액 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151141)| MySQL    | Level 1 | :white_check_mark: |
 | 23 |[강원도에 위치한 생산공장 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131112)| MySQL    | Level 1 | :white_check_mark: |
 | 24 |[12세 이하인 여자 환자 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132201)| MySQL    | Level 1 | :white_check_mark: |
+| 25 |[조건에 맞는 도서 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144853)| MySQL    | Level 1 | :white_check_mark: |
+| 26 |[조건에 맞는 회원수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131535)| MySQL    | Level 1 | :white_check_mark: |
+| 27 |[잔챙이 잡은 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293258)| MySQL    | Level 1 | :white_check_mark: |
+| 28 |[특정 옵션이 포함된 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157343)| MySQL    | Level 1 | :white_check_mark: |
+| 29 |[한 해에 잡은 물고기 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298516)| MySQL    | Level 1 | :white_check_mark: |
+
 
 
 # Programmers
