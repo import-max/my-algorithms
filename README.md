@@ -62,6 +62,7 @@ To record process what I solved
 | 27 |[잔챙이 잡은 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293258)| MySQL    | Level 1 | :white_check_mark: |
 | 28 |[특정 옵션이 포함된 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157343)| MySQL    | Level 1 | :white_check_mark: |
 | 29 |[한 해에 잡은 물고기 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298516)| MySQL    | Level 1 | :white_check_mark: |
+| 30 |[자동차 대여 기록에서 장기/단기 대여 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/151138)| MySQL    | Level 1 | :white_check_mark: |
 
 
 
