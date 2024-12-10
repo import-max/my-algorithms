@@ -63,6 +63,12 @@ To record process what I solved
 | 28 |[특정 옵션이 포함된 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157343)| MySQL    | Level 1 | :white_check_mark: |
 | 29 |[한 해에 잡은 물고기 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298516)| MySQL    | Level 1 | :white_check_mark: |
 | 30 |[자동차 대여 기록에서 장기/단기 대여 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/151138)| MySQL    | Level 1 | :white_check_mark: |
+| 31 |[가장 큰 물고기 10마리 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298517)| MySQL    | Level 1 | :white_check_mark: |
+| 32 |[가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115)| MySQL    | Level 2 | :white_check_mark: |
+| 33 |[최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038)| MySQL    | Level 2 | :white_check_mark: |
+| 34 |[동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406)| MySQL    | Level 2 | :white_check_mark: |
+| 35 |[중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)| MySQL    | Level 2 | :white_check_mark: |
+| 36 |[조건에 맞는 아이템들의 가격의 총합 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273709)| MySQL    | Level 2 | :white_check_mark: |
 
 
 
