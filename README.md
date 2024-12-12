@@ -73,6 +73,7 @@ To record process what I solved
 
 
 
+
 # Programmers
 | No | Title | Solution | Acceptance | Difficulty | Completed          |
 | -- | ----- | -------- | ---------- | ---------- | ------------------ |
@@ -162,6 +163,7 @@ To record process what I solved
 | 84 |[특정한 문자를 대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181873)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 | 85 |[이어 붙인 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
 | 86 |[공백으로 구분하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181869)| Python    | 89% | Easy (Lv.0)      | :white_check_mark: |
+| 87 |[배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)| Python    | 90% | Easy (Lv.0)      | :white_check_mark: |
 
 
 
