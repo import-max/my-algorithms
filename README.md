@@ -69,6 +69,9 @@ To record process what I solved
 | 34 |[동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406)| MySQL    | Level 2 | :white_check_mark: |
 | 35 |[중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)| MySQL    | Level 2 | :white_check_mark: |
 | 36 |[조건에 맞는 아이템들의 가격의 총합 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273709)| MySQL    | Level 2 | :white_check_mark: |
+| 37 |[과일로 만든 아이스크림 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/130325)| MySQL    | Level 1 | :white_check_mark: |
+| 38 |[조건에 부합하는 중고거래 댓글 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164673)| MySQL    | Level 1 | :white_check_mark: |
+
 
 
 
